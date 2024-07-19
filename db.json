@@ -1,0 +1,16 @@
+{
+  "inventories": [
+    {
+      "fechaDeCompra": "2024",
+      "cantidad": "12",
+      "precio": "124",
+      "id": "0"
+    },
+    {
+      "fechaDeCompra": "2021",
+      "cantidad": "2",
+      "precio": "35",
+      "id": "4ZPZXlb"
+    }
+  ]
+}
