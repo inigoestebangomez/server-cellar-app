@@ -1,16 +1,13 @@
 {
   "inventories": [
     {
-      "fechaDeCompra": "2024",
-      "cantidad": "12",
-      "precio": "124",
-      "id": "0"
-    },
-    {
-      "fechaDeCompra": "2021",
-      "cantidad": "2",
-      "precio": "35",
-      "id": "4ZPZXlb"
+      "fechaDeCompra": "2023",
+      "cantidad": "1",
+      "precio": "30000",
+      "image": "https://images.vivino.com/thumbs/rORmihtxSrKG7SfuI0bD6w_pb_x300.png",
+      "wine": "Montrachet Grand Cru 2010",
+      "winery": "Domaine de La Romanée-Conti",
+      "id": "_qMeGp2"
     }
   ]
 }
